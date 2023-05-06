@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://vighimre87.github.io/Bootstrap-Portfolio/](https://vighimre87.github.io/Bootstrap-Portfolio/)
 
-- 📫 How to reach me **vighimre87@gmail.com**
+- 📫 How to reach me: **vighimre87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
