@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vighimi" target="blank"><img src="https://img.shields.io/twitter/follow/vighimi?logo=twitter&style=for-the-badge" alt="vighimi" /></a> </p>
 
-- 🌱 I’m currently learning **edX Frontend Web Development Bootcamp**
+- 🔭 I’m currently working on **100 Days of Coding**
+
+- 🌱 I’m currently learning **Frontend Web Development, React JS**
 
 - 👨‍💻 All of my projects are available at [https://vighimre87.github.io/Bootstrap-Portfolio/](https://vighimre87.github.io/Bootstrap-Portfolio/)
 
